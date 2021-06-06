@@ -1,1 +1,0 @@
-{"name":"Local: largestWordInSentence","url":"/Users/bme/Desktop/CPP-Programs/09.CharacterArray/largestWordInSentence.cpp","tests":[{"id":1621952158309,"input":"20\ndo or die","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/bme/Desktop/CPP-Programs/09.CharacterArray/largestWordInSentence.cpp","group":"local","local":true}

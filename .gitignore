@@ -35,4 +35,5 @@
 *.bin
 *.dSYM
 *.cph
-
+.vscode/
+.vscode
