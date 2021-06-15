@@ -4,7 +4,7 @@ using namespace std;
 void possibleSubsets(int arr[], int n){
     for(int i=0; i< (1<<n); i++){ ///1<<n gives 2^n
         for(int j=0; j<n; j++){ 
-            if(i & (1<<j)){
+            if(i & (1<<j)){ //checking set bits
                 cout<<arr[j]<<" ";
             }
 
